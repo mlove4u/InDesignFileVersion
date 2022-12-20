@@ -66,6 +66,9 @@ p = os.path.join("file_samples", "1.indd")
 print(myInDesignFile.get_version(p))  # (None, 'Not a InDesign file')
 print(myInDesignFile.get_version(p, check_fGUID=False)) # ((1, 0), 'Adobe InDesign 1.0')
 ```
+## GUI (wxpython)
+![GUI_usage](GUI_usage.png)
+![GUI_result](GUI_result.png)
 
 ## File Samples
 ##### *Versions 1.0 and 1.5 do not support indb(book) and indl(library) files.
