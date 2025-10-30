@@ -96,3 +96,4 @@ print(myInDesignFile.get_version(p, check_fGUID=False)) # ((1, 0), 'Adobe InDesi
 |Adobe InDesign 2023|18.x|✓|✓|✓|✓|
 |Adobe InDesign 2024|19.x|✓|✓|✓|✓|
 |Adobe InDesign 2025|20.x|✓|✓|✓|✓|
+|Adobe InDesign 2026|21.x|✓|✓|✓|✓|
