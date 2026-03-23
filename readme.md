@@ -66,11 +66,15 @@ p = os.path.join("file_samples", "1.indd")
 print(myInDesignFile.get_version(p))  # (None, 'Not a InDesign file')
 print(myInDesignFile.get_version(p, check_fGUID=False)) # ((1, 0), 'Adobe InDesign 1.0')
 ```
-## GUI (wxPython)
+
+
+# GUI (wxPython)
 ![GUI_usage](GUI_usage.png)
 ![GUI_result](GUI_result.png)
 
-## OpenIndd(Mac): releases->download->v1.0->OpenIndd.zip
+
+# GUI: OpenIndd (Mac)
+## download: releases->download->v1.0->OpenIndd.zip
 ![OpenIndd1](OpenIndd1.webp)
 ![OpenIndd2](OpenIndd2.webp)
 
